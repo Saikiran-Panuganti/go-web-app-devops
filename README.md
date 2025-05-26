@@ -17,3 +17,16 @@ The server will start on port 8080. You can access it by navigating to `http://l
 ![Website](static/images/golang-website.png)
 
 
+
+
+Argocd Results :
+
+![image](https://github.com/user-attachments/assets/0f292506-a77c-44c8-9951-16cd50db0a17)
+
+
+
+
+
+
+
+
